@@ -1,0 +1,8 @@
+.image-preview-wrap {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.image-preview-wrap img {
+	max-width: 100%;
+	max-height: 200px;
+}

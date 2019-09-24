@@ -1,0 +1,25 @@
+.customize-control-section-manager .section-list li {
+	padding: 10px;
+}
+
+.customize-control-section-manager .section-list li span {
+	font-weight: bold;
+}
+
+#customize-controls .control-section-upsell .accordion-section-title:hover,
+#customize-controls .control-section-upsell .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-upsell .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 700;
+	margin-left: 8px;
+	border-color: #4cae4c;
+	background-color: #5cb85c;
+	color: #fff;
+}
+
+.control-section-upsell .accordion-section-title .button:hover {
+	background-color: #5c995c;
+}
